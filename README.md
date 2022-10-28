@@ -1,6 +1,8 @@
 # Movie Review Application - Stewing Courgettes
-### Filtering using JavaScript code
+
 ![stewing_courgettes_homepage_mockup](https://user-images.githubusercontent.com/115663122/198470848-b0656394-7fb9-4700-8e24-4f56c17e6682.png)
+
+### Filtering created using JavaScript code
 
 _Filtering by movie title's, genre and actors._
 
